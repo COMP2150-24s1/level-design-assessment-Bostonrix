@@ -68,7 +68,7 @@ Moving Platforms used as a connective space to change elevation and take the pla
 ![Storyboard of One Way Platform interaction](DocImages/OWPStory.png)
 Passthrough Platforms used as a one way door following the moving platform.
 ### 2.9. Checkpoints
-![Storyboard of Checkpoint interaction](DocImages/Checkpoints.png)
+![Storyboard of Checkpoint interaction](DocImages/Checkpoint.png)
 introduced after the player has excited the tutorial.
 ### 2.10. Keys
 ![Storyboard of Keys interaction](DocImages/Keys.png)
