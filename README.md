@@ -60,7 +60,7 @@ after 2 instances of possible health loss, player is provided the chance to heal
 ![Storyboard of Gun & Spitter interaction](DocImages/GunStory.png)
 The gun is then introduced, followed by a spitter a fair bit back, place in tight spot for enemy to reduce spitters movements, perfect height for use of gun. As before, representing that both are a farther range of combat than prior.
 ### 2.6. Spikes
-![Storyboard of Spike interaction](DocImages/Spikes.png)
+![Storyboard of Spike interaction](DocImages/spikes.png)
 used in basic parkour to present the threat that is the spikes. player can still be damaged but it is not game ending.
 ### 2.7. Moving Platforms & Passthrough Platforms
 ![Storyboard of Moving Platform interaction](DocImages/MPStory.png)
