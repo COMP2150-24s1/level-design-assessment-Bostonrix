@@ -51,11 +51,13 @@ after 2 instances of possible health loss, player is provided the chance to heal
 placed in prep for the spitter
 ### 2.7. Spitters
 place in tight spot for enemy to reduce spitters movements, perfect height for use of gun.
-### 2.8. Checkpoints
-place after the spitter, as following this are the spikes, that need a respawn and thus a perfect location.
 ### 2.9. Spikes
 used in basic parkour to present threat in the jump.
-
+### 2.9. Switch and teleporter
+as with the following checkpoint, used to signify that the tutorial section has finished.
+### 2.8. Checkpoints
+place after the spikes, this marks the end of the "tutorial phase.
+While the main mechanics have been introduced, moving platforms, keys, and passthrough platforms will be revealed later to add spice to the relevant sections.
 ### 2.10. Moving Platforms
 
 ### 2.11. Passthrough Platforms
