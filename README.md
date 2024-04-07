@@ -44,10 +44,12 @@ How does your level design facilitate autonomy and invite the player to explore?
 
 ## 2. Core Gameplay (~400 words) Story boards
 ### 2.1. Acid
-![Image of acid within the tutorial stage](DocImages/acid v1.png)
+![Image of acid within the tutorial stage](DocImages/acid.png)
 The player start by learning that acid respawns the player, rather than just damages, as this is the closest obstical from the respawn point, and thus an optimal first obstical.
 ### 2.2. Pushable blocks
+![Image of pushable box as a future hurdle](DocImages/pushable1.png)
 Following this, the push box is introduced and requires interaction to progress.
+![Image of pushable box as a solved hurdle](DocImages/pushable2.png)
 ### 2.3. Weapon Pickup (Staff) & Chompers
 Then the staff is provided to the player, and a chomper closely following, representing that both are close range.
 single enemy with no obstacles or further challenges around it.
