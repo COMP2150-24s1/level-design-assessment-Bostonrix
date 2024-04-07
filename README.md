@@ -55,18 +55,15 @@ It is impossible to pass this key without picking it up, and therefore presents 
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.<br>
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
-
+![Level Map of Section 1 / the tutorial](DocImages/LevelMapS1.png)
 ### 3.3.	Level Map – Section 2
-
+![Level Map of Section 2 / the tutorial](DocImages/LevelMapS2.png)
 ### 3.4.	Level Map – Section 3
-
+![Level Map of Section 2 / the tutorial](DocImages/LevelMapS3.png)
 ## 4. Iterative Design
 As the tileset was made from the get go, Grey-boxed mapping wasnt an option. As such, rather than grey-boxed mapping, the basic layout of the map was made with little filled in, this still allowed me to playtest each section with minimal design, adding features as I went along. <br>  
 This worked extremely well in Section 2, where I originally aimed to try and get a moving platform to move a pushable box across the acid, after many failed attempts however, I realised that the Box's had a floating effect, something in which I could use to make a parkour across the acid moat. This floating effect, meant that the box's could be used to "unlock" a path through the acid. With this in mind, I design the first route within the game to take the player to the second box.
@@ -77,6 +74,6 @@ Continuing to playtest the sections puzzle, it still felt too short for a "hurdl
 ![Third route added to the puzzle map](DocImages/S2P13.png)
 Through Iterative design, a botched idea that wasnt working turned into something completely else, that worked entirely as intended and didn't limit the player into a severely linear playstyle (while this puzzle was a hurdle to progress to the next section, it contains two routes that can be completed regardless of each other but are both required). <br>  
 
-Through iterative design, I believe the level turn out quite well, with each section being tested until it "felt right". 
+To Conclude, I believe the level turn out quite well, with each section being tested until it "felt right". 
 However, if I had more time to dedicate on the project, I believe that the Section 3 Puzzle 2 part of the map would benefit from further improvement through iterative design.
-While the puzzle's theme revolves around minimal jumping, in order to avoid the spikes on the roof, I believe that it could be vastly improved and made to be more fun through that playtesting style.
+While the puzzle's theme revolves around minimal jumping (an idea I got when sitting next to a friend playing geometry dash), in order to avoid the spikes on the roof, I believe that it could be vastly improved and made to be more fun through that playtesting style.
