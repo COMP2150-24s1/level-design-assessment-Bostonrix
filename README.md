@@ -38,26 +38,31 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
+introduced as first hurdle, outside of initial view.
+### 2.2. Pushable blocks
+introduced as second hurdle, where you push it to the right, it then falls in the hole and the play is able to progress.
+### 2.3. Weapon Pickup (Staff)
+introduced so that player can face enemy ahead
+### 2.4. Chompers
+single enemy with no obstacles or further challenges around it.
+### 2.5. Health Pickups
+after 2 instances of possible health loss, player is provided the chance to heal.
+### 2.6. Weapon Pickup (Gun)
+placed in prep for the spitter
+### 2.7. Spitters
+place in tight spot for enemy to reduce spitters movements, perfect height for use of gun.
+### 2.8. Checkpoints
+place after the spitter, as following this are the spikes, that need a respawn and thus a perfect location.
+### 2.9. Spikes
+used in basic parkour to present threat in the jump.
 
-### 2.2. Checkpoints
+### 2.10. Moving Platforms
 
-### 2.3. Chompers
+### 2.11. Passthrough Platforms
 
-### 2.4. Health Pickups
+### 2.12. Keys
 
-### 2.5. Keys
 
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
