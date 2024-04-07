@@ -4,7 +4,7 @@
 ### Student number: 46618538
 
 
-## 1. Player Experience (~700 words)
+## 1. Player Experience
 ### 1.1. Discovery
 In the game, the discovery aspect of the player experience unfolds mostly within the tutorial stage (section 1). Through following the Assignment Outline, Mechanics and dynamics were introduced individually, and in a safe manor as to not complicated the experience of the player. The first section of the game consisted of a relatively safe linear experience of the games features and dynamics.<br>
 Through this, the player is provided the chance to grasp how their player interacts with the obstacles within the world.
@@ -74,14 +74,14 @@ It is impossible to pass this key without picking it up, and therefore presents 
 ![Level Map of Section 2 / the tutorial](DocImages/LevelMapS3.png)
 
 ## 4. Iterative Design
-As the tileset was made from the get go, Grey-boxed mapping wasnt an option. As such, rather than grey-boxed mapping, the basic layout of the map was made with little filled in, this still allowed me to playtest each section with minimal design, adding features as I went along. <br>  
-This worked extremely well in Section 2, where I originally aimed to try and get a moving platform to move a pushable box across the acid, after many failed attempts however, I realised that the Box's had a floating effect, something in which I could use to make a parkour across the acid moat. This floating effect, meant that the box's could be used to "unlock" a path through the acid. With this in mind, I design the first route within the game to take the player to the second box.
+As the tileset was made from the get go, Grey-boxed mapping wasnt an option. As such, rather than grey-boxed mapping, the basic layout of the map was made with little filled in, this still allowed me to playtest each section with minimal design, adding features as I went along and removing what didn't work. <br>  
+This worked extremely well in Section 2, where I originally aimed to try and get a moving platform to move a pushable box across the acid, after many failed attempts however, I realised that the Box's had a floating effect, something in which I could use to make a parkour across the acid moat. This floating effect, meant that the box's could be used to "unlock" a path through the acid by moving them into the acid and jumping across on the boxes. With this in mind, I design the first route within the game to take the player to the second box.
 ![First look at Section 2's puzzle](DocImages/S2P11.png)
-After some playtesting of this route, it felt as if it was lacking something, and seemed bland with just being a parkour feature. Thus, Enemies were added to provide more challenge to the route.
+After some playtesting of this route, it felt as if it was lacking something, and seemed bland with just being a parkour feature. Thus, Enemies were added to provide more challenge to the route and provide variety within the section.
 ![Enemies added to the puzzle map](DocImages/S2P12.png)
-Continuing to playtest the sections puzzle, it still felt too short for a "hurdle puzzle" (Required to progress through the level), and I decided to mess around with adding a third route, and extending the acid pool to compensate for this change.
+Continuing to playtest the sections puzzle, it still felt too short for a "hurdle puzzle" (Required to progress through the level) and also felt to restrictive in regards to exploration within the section. Due to this, I decided to mess around with adding a third route, and extending the acid pool to compensate for this change.
 ![Third route added to the puzzle map](DocImages/S2P13.png)
-Through Iterative design, a botched idea that wasnt working turned into something completely else, that worked entirely as intended and didn't limit the player into a severely linear playstyle (while this puzzle was a hurdle to progress to the next section, it contains two routes that can be completed regardless of each other but are both required). <br>  
+Through Iterative design, a botched and broken idea that wasnt working out, turned into something completely else, that worked entirely as intended and didn't limit the player into a severely linear playstyle (while this puzzle was a hurdle to progress to the next section, it contains two routes that can be completed regardless of each other but are both required). <br>  
 
 To Conclude, I believe the level turn out quite well, with each section being tested until it "felt right". 
 However, if I had more time to dedicate on the project, I believe that the Section 3 Puzzle 2 part of the map would benefit from further improvement through iterative design.
