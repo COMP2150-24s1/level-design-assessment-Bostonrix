@@ -42,30 +42,36 @@ What are the main challenges? How have you designed and balanced these challenge
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-## 2. Core Gameplay (~400 words) Story boards
+## 2. Core Gameplay (~400 words)
 ### 2.1. Acid
 ![Storyboard of the acid as a hurdle](DocImages/acidStory.png)
 The player start by learning that acid respawns the player, rather than just damages, as this is the closest obstical from the respawn point, and thus an optimal first obstical.
 ### 2.2. Pushable blocks
-![Storyboard of pushable box interaction](DocImages/pushable.png)
+![Storyboard of pushable box interaction](DocImages/Pushable.png)
 Following this, the push box is introduced and requires interaction to progress.
 ### 2.3. Weapon Pickup (Staff) & Chompers
 ![Storyboard of Staff and Chomper interaction](DocImages/Staff&ChomperStory.png)
 Then the staff is provided to the player, and a chomper closely following, representing that both are close range.
 single enemy with no obstacles or further challenges around it.
 ### 2.4. Health Pickups
+![Storyboard of Health Pickup interaction](DocImages/HealthStory.png)
 after 2 instances of possible health loss, player is provided the chance to heal.
 ### 2.5. Weapon Pickup (Gun) & Spitters
+![Storyboard of Gun & Spitter interaction](DocImages/GunStory.png)
 The gun is then introduced, followed by a spitter a fair bit back, place in tight spot for enemy to reduce spitters movements, perfect height for use of gun. As before, representing that both are a farther range of combat than prior.
 ### 2.6. Spikes
+![Storyboard of Spike interaction](DocImages/Spikes.png)
 used in basic parkour to present the threat that is the spikes. player can still be damaged but it is not game ending.
-### 2.7. Moving Platforms
-used as a connective space to change elevation and take the player to the next section to progress and out of the tutorial section.
-### 2.8. Passthrough Platforms
-Used as a one way door following the moving platform. As such, once you have made it into section 2, you cannot go back to the tutorial.
+### 2.7. Moving Platforms & Passthrough Platforms
+![Storyboard of Moving Platform interaction](DocImages/MPStory.png)
+Moving Platforms used as a connective space to change elevation and take the player to the next section to progress and out of the tutorial section.
+![Storyboard of One Way Platform interaction](DocImages/OWPStory.png)
+Passthrough Platforms used as a one way door following the moving platform.
 ### 2.9. Checkpoints
+![Storyboard of Checkpoint interaction](DocImages/Checkpoints.png)
 introduced after the player has excited the tutorial.
 ### 2.10. Keys
+![Storyboard of Keys interaction](DocImages/Keys.png)
 After completing the section 2 puzzle, the player is presented with the first of three keys.
 It is impossible to pass this key without picking it up, and therefore presents the player with its importance in finishing the game.
 
