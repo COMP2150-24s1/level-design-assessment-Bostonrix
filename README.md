@@ -47,10 +47,10 @@ How does your level design facilitate autonomy and invite the player to explore?
 ![Storyboard of the acid as a hurdle](DocImages/acidStory.png)
 The player start by learning that acid respawns the player, rather than just damages, as this is the closest obstical from the respawn point, and thus an optimal first obstical.
 ### 2.2. Pushable blocks
-![Image of pushable box as a future hurdle](DocImages/pushable1.png)
+![Storyboard of pushable box interaction](DocImages/pushable.png)
 Following this, the push box is introduced and requires interaction to progress.
-![Image of pushable box as a solved hurdle](DocImages/pushable2.png)
 ### 2.3. Weapon Pickup (Staff) & Chompers
+![Storyboard of Staff and Chomper interaction](DocImages/Staff&ChomperStory.png)
 Then the staff is provided to the player, and a chomper closely following, representing that both are close range.
 single enemy with no obstacles or further challenges around it.
 ### 2.4. Health Pickups
