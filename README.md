@@ -20,6 +20,18 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+In the game, the discovery aspect of the player experience unfolds mostly within the tutorial stage (section 1). Through following the Assignment Outline, Mechanics and dynamics were introduced individually, and in a safe manor as to not complicated the experience of the player. The first section of the game consisted of a relatively safe linear experience of the games features and dynamics.
+Through this, the player is provided the chance to grasp how their player interacts with the obstacles within the world.
+
+
+
+
+
+
+
+
+
+
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -30,40 +42,30 @@ What are the main challenges? How have you designed and balanced these challenge
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
-
+## 2. Core Gameplay (~400 words) Story boards
 ### 2.1. Acid
-introduced as first hurdle, outside of initial view.
+![Image of acid within the tutorial stage](DocImages/acid v1.png)
+The player start by learning that acid respawns the player, rather than just damages, as this is the closest obstical from the respawn point, and thus an optimal first obstical.
 ### 2.2. Pushable blocks
-introduced as second hurdle, where you push it to the right, it then falls in the hole and the play is able to progress.
-### 2.3. Weapon Pickup (Staff)
-introduced so that player can face enemy ahead
-### 2.4. Chompers
+Following this, the push box is introduced and requires interaction to progress.
+### 2.3. Weapon Pickup (Staff) & Chompers
+Then the staff is provided to the player, and a chomper closely following, representing that both are close range.
 single enemy with no obstacles or further challenges around it.
-### 2.5. Health Pickups
+### 2.4. Health Pickups
 after 2 instances of possible health loss, player is provided the chance to heal.
-### 2.6. Weapon Pickup (Gun)
-placed in prep for the spitter
-### 2.7. Spitters
-place in tight spot for enemy to reduce spitters movements, perfect height for use of gun.
-### 2.9. Spikes
-used in basic parkour to present threat in the jump.
-### 2.9. Switch and teleporter
-as with the following checkpoint, used to signify that the tutorial section has finished.
-### 2.8. Checkpoints
-place after the spikes, this marks the end of the "tutorial phase.
-While the main mechanics have been introduced, moving platforms, keys, and passthrough platforms will be revealed later to add spice to the relevant sections.
-### 2.10. Moving Platforms
-
-### 2.11. Passthrough Platforms
-
-### 2.12. Keys
-
+### 2.5. Weapon Pickup (Gun) & Spitters
+The gun is then introduced, followed by a spitter a fair bit back, place in tight spot for enemy to reduce spitters movements, perfect height for use of gun. As before, representing that both are a farther range of combat than prior.
+### 2.6. Spikes
+used in basic parkour to present the threat that is the spikes. player can still be damaged but it is not game ending.
+### 2.7. Moving Platforms
+used as a connective space to change elevation and take the player to the next section to progress and out of the tutorial section.
+### 2.8. Passthrough Platforms
+Used as a one way door following the moving platform. As such, once you have made it into section 2, you cannot go back to the tutorial.
+### 2.9. Checkpoints
+introduced after the player has excited the tutorial.
+### 2.10. Keys
+After completing the section 2 puzzle, the player is presented with the first of three keys.
+It is impossible to pass this key without picking it up, and therefore presents the player with its importance in finishing the game.
 
 
 ## 3. Spatiotemporal Design
