@@ -44,7 +44,7 @@ How does your level design facilitate autonomy and invite the player to explore?
 
 ## 2. Core Gameplay (~400 words) Story boards
 ### 2.1. Acid
-![Image of acid within the tutorial stage](DocImages/acid.png)
+![Storyboard of the acid as a hurdle](DocImages/acidStory.png)
 The player start by learning that acid respawns the player, rather than just damages, as this is the closest obstical from the respawn point, and thus an optimal first obstical.
 ### 2.2. Pushable blocks
 ![Image of pushable box as a future hurdle](DocImages/pushable1.png)
